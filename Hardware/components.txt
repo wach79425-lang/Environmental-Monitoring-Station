@@ -1,1 +1,15 @@
+=== ENVIRONMENTAL MONITORING STATION - COMPONENTS LIST ===
 
+1. Arduino Uno R3 (or compatible)
+2. HC-SR04 Ultrasonic Sensor (distance measurement)
+3. Infrared (IR) Reflectance Sensor
+4. Active Buzzer
+5. RGB LED (Common Cathode)
+6. Resistors: 3x 220Ω
+7. Breadboard and jumper wires
+8. USB cable for power/data
+9. Protective enclosure (optional)
+
+Total Cost: ~$20 USD
+Application: Environmental monitoring in Mozambique
+Purpose: Measure distance, reflectance, and environmental changes
