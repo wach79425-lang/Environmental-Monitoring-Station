@@ -1,3 +1,7 @@
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # 🌍 Environmental Monitoring Station
 
 **Author**: [Your Name]  
