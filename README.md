@@ -4,7 +4,7 @@
 
 # 🌍 Environmental Monitoring Station
 
-**Author**: [Your Name]  
+**Author**: Daniel Sora 
 **Country**: Mozambique  
 **Field**: Environmental Science & Electronic Engineering  
 **Year**: 2024  
